@@ -1,0 +1,11 @@
+{
+  "name": "strgbestjoder",
+  "version": "0.0.1",
+  "description": "sa",
+  "main": "./.data/superstriga.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "sa",
+  "license": "ISC"
+}
